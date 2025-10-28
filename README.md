@@ -1,6 +1,6 @@
 ## Blogs
 
-Coming Soon
+Coming Soon ([🌐 Live](https://dev.to/brunoprela))
 
 ## Projects
 
