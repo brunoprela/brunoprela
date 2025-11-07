@@ -4,4 +4,4 @@
 
 📊 **[SheetGrid](https://github.com/brunoprela/sheetgrid)** ([🌐 Live](https://sheetgrid.vercel.app/)) - Open-source Cursor-like in-browser Excel editor and analysis tool powered by AI.
 
-💻 **[EasyCode](https://github.com/brunoprela/easycode)** - Open-source Cursor-clone VSCode plugin which works for free with local Ollama models.
+💻 **[EasyCode](https://github.com/brunoprela/easycode)** ([🌐 Live](https://marketplace.visualstudio.com/items?itemName=brunoprela.easycode-ai)) - Open-source Cursor-clone VSCode plugin which works for free with local Ollama models.
