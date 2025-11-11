@@ -16,6 +16,8 @@
 
 𝐊 **[KDB-X MCP TS Server](https://github.com/brunoprela/kdb-x-mcp-server-ts)** ([🌐 Live](https://www.npmjs.com/package/kdb-x-mcp-server-ts)) - KDB-X high-performance time-series database MCP server in Typescript (based on [KxSystems Implementation](https://github.com/KxSystems/kdb-x-mcp-server)).
 
+🦙 **[KDB-X-llama](https://github.com/brunoprela/kdb-x-llama)** - KDB-X equipped with local AI Ollama chat interface.
+
 𝐐 **[QuestDB MCP Server](https://github.com/brunoprela/questdb-mcp)** ([🌐 Live](https://www.npmjs.com/package/questdbmcp)) - QuestDB high-performance time-series database MCP server.
 
 🦙 **[QuestDB-llama](https://github.com/brunoprela/questdb-llama)** - QuestDB equipped with local AI Ollama chat interface.
