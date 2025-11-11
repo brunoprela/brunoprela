@@ -14,4 +14,4 @@
 
 📈 **[PortfolioMap](https://github.com/brunoprela/portfoliomap)** - Open-source equities portfolio builder and analysis tool built with KDB+/q and Alpaca APIs.
 
-𝐐 **[QuestDB MCP Server](https://github.com/brunoprela/questdb-mcp)** ([🌐 Live](https://github.com/brunoprela/questdb-mcp/pkgs/npm/questdb-mcp)) - QuestDB high performance time-series database MCP server.
+𝐐 **[QuestDB MCP Server](https://github.com/brunoprela/questdb-mcp)** ([🌐 Live](https://github.com/brunoprela/questdb-mcp/pkgs/npm/questdb-mcp)) - QuestDB high-performance time-series database MCP server.
