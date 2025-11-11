@@ -14,7 +14,7 @@
 
 📈 **[PortfolioMap](https://github.com/brunoprela/portfoliomap)** - Open-source equities portfolio builder and analysis tool built with KDB+/q and Alpaca APIs.
 
-𝐊 **[KDB-X MCP TS Server](https://github.com/brunoprela/kdb-x-mcp-server-ts)** ([🌐 Live](https://www.npmjs.com/package/kdb-x-mcp-server-ts)) - KDB-X high-performance time-series database MCP server in Typescript (based on [KxSystems Implementation](https://github.com/KxSystems/kdb-x-mcp-server)).
+𝐊 **[KDB-X MCP TS Server](https://github.com/brunoprela/kdb-x-mcp-server-ts)** ([🌐 Live](https://www.npmjs.com/package/kdb-x-mcp-server-ts)) - KDB-X high-performance time-series database MCP server in Typescript.
 
 🦙 **[KDB-X-llama](https://github.com/brunoprela/kdb-x-llama)** - KDB-X equipped with local AI Ollama chat interface.
 
