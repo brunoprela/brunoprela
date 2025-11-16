@@ -24,4 +24,4 @@
 
 🦙 **[QuestDB-llama](https://github.com/brunoprela/questdb-llama)** - QuestDB equipped with local AI Ollama chat interface.
 
-⬣ **[InfluxDB C++](https://github.com/brunoprela/influxdb-cpp)** - Comprehensive C++ Library for InfluxDB.
+⬡ **[InfluxDB C++](https://github.com/brunoprela/influxdb-cpp)** - Comprehensive C++ Library for InfluxDB.
