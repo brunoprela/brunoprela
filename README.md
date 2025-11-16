@@ -12,7 +12,9 @@
 
 ### Quantitative Finance
 
-📈 **[PortfolioMap](https://github.com/brunoprela/portfoliomap)** - Open-source equities portfolio builder and analysis tool built with KDB+/q and Alpaca APIs.
+📈 **[PortfolioMap](https://github.com/brunoprela/portfoliomap)** - Open-source equities portfolio builder and analysis tool built with KDB+/q and Alpaca API.
+
++ **[Alpaca C++](https://github.com/brunoprela/alpaca-cpp)** - Comprehensive C++ Library for Alpaca API.
 
 𝐊 **[KDB-X MCP TS Server](https://github.com/brunoprela/kdb-x-mcp-server-ts)** ([🌐 Live](https://www.npmjs.com/package/kdb-x-mcp-server-ts)) - KDB-X high-performance time-series database MCP server in Typescript.
 
