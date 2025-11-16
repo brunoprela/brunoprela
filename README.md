@@ -23,3 +23,5 @@
 𝐐 **[QuestDB MCP Server](https://github.com/brunoprela/questdb-mcp)** ([🌐 Live](https://www.npmjs.com/package/questdbmcp)) - QuestDB high-performance time-series database MCP server.
 
 🦙 **[QuestDB-llama](https://github.com/brunoprela/questdb-llama)** - QuestDB equipped with local AI Ollama chat interface.
+
+💽 **[InfluxDB C++](https://github.com/brunoprela/influxdb-cpp)** - Comprehensive C++ Library for InfluxDB.
