@@ -1,6 +1,6 @@
 ## About Me
 
-Full-stack software engineer with a deep interest in system design, algorithms, AI, machine learning, databases and quantitative finance.
+Full-stack software engineer with a deep interest in engineering education, system design, algorithms, AI, machine learning, databases and quantitative finance.
 
 ## Projects
 
@@ -13,12 +13,6 @@ Full-stack software engineer with a deep interest in system design, algorithms, 
 📊 **[SheetGrid](https://github.com/brunoprela/sheetgrid)** ([🌐 Live](https://sheetgrid.vercel.app/)) - Open-source Cursor-like in-browser Excel editor and analysis tool powered by AI.
 
 💻 **[EasyCode](https://github.com/brunoprela/easycode)** ([🌐 Live](https://marketplace.visualstudio.com/items?itemName=brunoprela.easycode-ai)) - Open-source Cursor-like VSCode plugin which works for free with local Ollama models.
-
-### Quantitative Finance
-
-📈 **[PortfolioMap](https://github.com/brunoprela/portfoliomap)** - Open-source equities portfolio builder and analysis tool built with KDB+/q and Alpaca API.
-
-⭐️ **[Alpaca C++](https://github.com/brunoprela/alpaca-cpp)** - Comprehensive C++ Library for Alpaca API.
 
 ### Databases
 
@@ -33,3 +27,9 @@ Full-stack software engineer with a deep interest in system design, algorithms, 
 ⬡ **[InfluxDB C++](https://github.com/brunoprela/influxdb-cpp)** - Comprehensive C++ Library for InfluxDB.
 
 🐯 **[TimescaleDB MCP Server](https://github.com/brunoprela/timescaledb-mcp)** ([🌐 Live](https://pypi.org/project/timescaledb-mcp/)) - TimescaleDB high-performance time-series database MCP server.
+
+### Quantitative Finance
+
+📈 **[PortfolioMap](https://github.com/brunoprela/portfoliomap)** - Open-source equities portfolio builder and analysis tool built with KDB+/q and Alpaca API.
+
+⭐️ **[Alpaca C++](https://github.com/brunoprela/alpaca-cpp)** - Comprehensive C++ Library for Alpaca API.
