@@ -1,3 +1,7 @@
+## About Me
+
+Software engineer with a deep interest in AI and quantitative finance.
+
 ## Projects
 
 ### Education Tools
@@ -10,6 +14,14 @@
 
 💻 **[EasyCode](https://github.com/brunoprela/easycode)** ([🌐 Live](https://marketplace.visualstudio.com/items?itemName=brunoprela.easycode-ai)) - Open-source Cursor-like VSCode plugin which works for free with local Ollama models.
 
+### Quantitative Finance
+
+📈 **[PortfolioMap](https://github.com/brunoprela/portfoliomap)** - Open-source equities portfolio builder and analysis tool built with KDB+/q and Alpaca API.
+
+⭐️ **[Alpaca C++](https://github.com/brunoprela/alpaca-cpp)** - Comprehensive C++ Library for Alpaca API.
+
+### Databases
+
 𝐊 **[KDB-X MCP TS Server](https://github.com/brunoprela/kdb-x-mcp-server-ts)** ([🌐 Live](https://www.npmjs.com/package/kdb-x-mcp-server-ts)) - KDB-X high-performance time-series database MCP server in Typescript.
 
 🦙 **[KDB-X-llama](https://github.com/brunoprela/kdb-x-llama)** - KDB-X equipped with local AI Ollama chat interface.
@@ -18,10 +30,6 @@
 
 🦙 **[QuestDB-llama](https://github.com/brunoprela/questdb-llama)** - QuestDB equipped with local AI Ollama chat interface.
 
-### Quantitative Finance
-
-📈 **[PortfolioMap](https://github.com/brunoprela/portfoliomap)** - Open-source equities portfolio builder and analysis tool built with KDB+/q and Alpaca API.
-
-⭐️ **[Alpaca C++](https://github.com/brunoprela/alpaca-cpp)** - Comprehensive C++ Library for Alpaca API.
-
 ⬡ **[InfluxDB C++](https://github.com/brunoprela/influxdb-cpp)** - Comprehensive C++ Library for InfluxDB.
+
+🐯 **[TimescaleDB MCP Server](https://github.com/brunoprela/timescaledb-mcp)** ([🌐 Live](https://pypi.org/project/timescaledb-mcp/)) - TimescaleDB high-performance time-series database MCP server.
