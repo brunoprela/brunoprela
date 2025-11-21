@@ -1,6 +1,6 @@
 ## About Me
 
-Software engineer with a deep interest in AI and quantitative finance.
+Full-stack software engineer with a deep interest in system design, algorithms, AI, machine learning, databases and quantitative finance.
 
 ## Projects
 
