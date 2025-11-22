@@ -33,3 +33,5 @@ Full-stack software engineer with a deep interest in engineering education, syst
 📈 **[PortfolioMap](https://github.com/brunoprela/portfoliomap)** - Open-source equities portfolio builder and analysis tool built with KDB+/q and Alpaca API.
 
 ⭐️ **[Alpaca C++](https://github.com/brunoprela/alpaca-cpp)** - Comprehensive C++ Library for Alpaca API.
+
+Ⓜ️ **[Massive C++](https://github.com/brunoprela/massive-cpp)** - Comprehensive C++ Library for Massive API (formerly Polygon).
